@@ -77,5 +77,5 @@ return {
 		mods = "CTRL|SHIFT",
 		action = wezterm.action.SpawnTab('CurrentPaneDomain'),
 	},
-}
+    }
 }
