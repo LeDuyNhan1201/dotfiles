@@ -11,3 +11,4 @@ end
 if status is-interactive
    starship init fish | source
 end
+alias dotfiles='git --git-dir=/home/ben/.dotfiles --work-tree=/home/ben'
